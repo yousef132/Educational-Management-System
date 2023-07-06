@@ -1,0 +1,6 @@
+prog1,what are the data types for numbers,int and float ,ali,mohamed
+prog1,write a program for hello world,Console.WrieLine("hello world");,omar,mohamed
+organization,what is organization,it is organizing things ,amr,walid
+math2,what are primes, numbers that can be divided only on 1 and itself,omar,mohamed
+ps1,what is number theory ?,it is since of numbers,kalid,Ammar Hammad
+

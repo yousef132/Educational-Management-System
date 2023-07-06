@@ -1,0 +1,5 @@
+prog1,ali|omar,what are the data types for numbers|write a program for hello world,mohamed
+organization,khalid|yousef|amr,what is organization,walid
+math2,omar|yousef,what are primes,mohamed
+accounting,yousef,what is accounting|why accounting,walid
+ps1,omar|khalid,what is number theory ?,Ammar Hammad

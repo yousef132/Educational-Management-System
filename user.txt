@@ -1,0 +1,11 @@
+ali,mmm,0
+mohamed,nnn,1
+khalid,kkk,0
+omar,ooo,0,
+yousef,fd,0
+hamed,123,0
+walid,eee,1
+amr,aaa,0
+ammar hammad,hh6,1
+Ammar Hammad,hh7,1
+yousef saad,uu1,0
