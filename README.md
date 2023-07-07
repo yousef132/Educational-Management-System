@@ -14,8 +14,7 @@ It is a program for doctors and students.
 ---
 ## Uml Diagram For The Program 
 
-![Uml diagram](https://github.com/yousef132/Educational-Management-System/assets/88557193/9d3e6719-df26-4fe3-8781-6b15e12c9d0f)
-
+![UML DIAGRAM](https://github.com/yousef132/Educational-Management-System/assets/88557193/b4c45c52-e03b-4f19-ba32-4a7ba26acd2c)
 ---
 ### Video explaining the Project
 
